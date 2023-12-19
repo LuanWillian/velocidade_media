@@ -3,8 +3,8 @@ def vm(SI, SF, TI, TF, MS):
     Essa função descobre a Velocidade media de um objeto
     :param SI: Pega km/h ou m/s do inicio do movimento do objeto
     :param SF: Pega km/h ou m/s do fim do movimento do objeto
-    :param TI: Pega o inicio da hora ou segundos que o objeto se locomoveu
-    :param TF: Pega o fim da hora ou segundos que o objeto se locomoveu
+    :param TI: Pega o inicio da hora ou segundos que o objeto se locomovel
+    :param TF: Pega o fim da hora ou segundos que o objeto se locomovel
     :param MS: Pega o km/h ou m/s para formata junto com o resultado
     :return: Retorna a velocidade media do objeto
     """
